@@ -8,6 +8,6 @@ public class Main {
         FeaturesSun fs=new FeaturesSun();
         fs.Heat="123242324";
         fs.size=123213441;
-        fs.Temperature="32421";
+        fs.Temperature=70000;
     }
 }
